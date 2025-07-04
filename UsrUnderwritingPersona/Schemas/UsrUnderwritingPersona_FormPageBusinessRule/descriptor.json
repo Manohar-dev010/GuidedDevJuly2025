@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dd16af89-bd78-4041-8b34-1bf9aced9eb5",
+    "Name": "UsrUnderwritingPersona_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1749459076000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Underwriting Personal Insurance form page (Business rules)",
+    "DependsOn": []
+  }
+}

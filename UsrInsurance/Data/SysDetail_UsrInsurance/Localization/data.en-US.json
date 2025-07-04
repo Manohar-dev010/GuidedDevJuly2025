@@ -1,0 +1,18 @@
+{
+	"PackageData": [
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"ColumnName": "Id",
+					"Value": "1b41b3fd-67bc-405b-bc0b-1570d0f23661"
+				},
+				{
+					"SchemaColumnUId": "49ad8ee2-65a6-4cdd-b8f6-85c2f10a54dc",
+					"ColumnName": "Caption",
+					"Value": "Insurance detail"
+				}
+			]
+		}
+	]
+}

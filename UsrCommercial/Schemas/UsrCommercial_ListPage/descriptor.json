@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "27c21599-3e1e-4ca2-94cd-1f14238c049a",
+    "Name": "UsrCommercial_ListPage",
+    "ModifiedOnUtc": "\/Date(1749036929000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Commercial list page",
+    "DependsOn": []
+  }
+}

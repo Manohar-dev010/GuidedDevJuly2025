@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "93bf5477-96c9-4044-859e-1031f4486f7f",
+    "Name": "UsrInsurance",
+    "ModifiedOnUtc": "\/Date(1750945735000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Insurance",
+    "DependsOn": []
+  }
+}

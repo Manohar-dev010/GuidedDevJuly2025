@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e9a8315b-c816-4451-a506-7f28a02a1bf5",
+    "Name": "UsrInsuranceStages",
+    "ModifiedOnUtc": "\/Date(1748257635000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Insurance Stages",
+    "DependsOn": []
+  }
+}

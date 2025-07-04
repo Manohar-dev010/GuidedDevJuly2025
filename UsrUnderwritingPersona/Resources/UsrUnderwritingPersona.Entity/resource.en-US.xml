@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Underwriting Personal Insurance" />
+			<Item Name="Columns.UsrActivityStatus.Caption" Value="UW activity status" />
+			<Item Name="Columns.UsrCaseReference.Caption" Value="Case reference" />
+			<Item Name="Columns.UsrEffectiveDate.Caption" Value="Policy effective date" />
+			<Item Name="Columns.UsrFirstName.Caption" Value="First name" />
+			<Item Name="Columns.UsrInurance.Caption" Value="Inurance" />
+			<Item Name="Columns.UsrPolicyExpirationDate.Caption" Value="Policy expiration date" />
+			<Item Name="Columns.UsrStage1Status.Caption" Value="Stage1 status" />
+			<Item Name="Columns.UsrStages.Caption" Value="UWPL stages" />
+		</Items>
+	</Group>
+</Resources>

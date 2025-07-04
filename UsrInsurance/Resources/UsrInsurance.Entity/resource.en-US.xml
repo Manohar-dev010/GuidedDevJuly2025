@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Insurance" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Description" />
+			<Item Name="Columns.UsrInsuranceStages.Caption" Value="Insurance Stages" />
+			<Item Name="Columns.UsrInsuranceType.Caption" Value="Insurance Type" />
+			<Item Name="Columns.UsrPolicyNumber.Caption" Value="Policy Number" />
+		</Items>
+	</Group>
+</Resources>

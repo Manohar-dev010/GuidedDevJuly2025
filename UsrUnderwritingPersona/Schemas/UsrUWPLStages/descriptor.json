@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "99a41aae-09ca-4a63-8c0d-565170ea43e9",
+    "Name": "UsrUWPLStages",
+    "ModifiedOnUtc": "\/Date(1749203007000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "UWPL stages",
+    "DependsOn": []
+  }
+}

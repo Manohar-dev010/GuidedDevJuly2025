@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1b5d3149-11f6-4eab-bf7b-cd5a78fb5d8b",
+    "Name": "UsrPage_40c3tgv",
+    "ModifiedOnUtc": "\/Date(1749038888000)\/",
+    "Parent": {
+      "UId": "7ed23be6-71df-4ad3-b56a-caa77b9881ce",
+      "Name": "PageWithTabsAndProgressBarTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "New edit page",
+    "DependsOn": []
+  }
+}

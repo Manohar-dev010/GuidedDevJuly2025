@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d2d3d4e8-95c8-46f9-8e38-12d40a0c07ea",
+    "Name": "UsrUnderwritingPersona_FormPage",
+    "ModifiedOnUtc": "\/Date(1751016211000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Underwriting Personal Insurance form page",
+    "DependsOn": []
+  }
+}

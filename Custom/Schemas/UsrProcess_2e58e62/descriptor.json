@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a4fffe3f-4dae-4dd8-b37f-0b8fb0ab0e3f",
+    "Name": "UsrProcess_2e58e62",
+    "ModifiedOnUtc": "\/Date(1749648588000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Generate PDF",
+    "DependsOn": []
+  }
+}

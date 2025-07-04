@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0e7b51c0-a98a-44bd-865f-1019fe57f30d",
+    "Name": "UsrProcess_2ea992c",
+    "ModifiedOnUtc": "\/Date(1749469033000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Collect Policy Details",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "DcmSchemaManager",
+      "UId": "755c68ab-aed6-45ef-9f05-9b73bbd5f33d",
+      "A2": "UsrCase_9fab98a",
+      "A5": "d47f93ec-1252-46dc-81b9-d5ad0a0b951b",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f130df8d-6d7e-400e-8b29-59c0a986bbd4",
+      "B8": "8.2.3.1351",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "51b280eb-d8a3-4932-81b9-ef61a0877aab",
+      "IJ10": true,
+      "EntitySchemaUId": "93bf5477-96c9-4044-859e-1031f4486f7f",
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "755c68ab-aed6-45ef-9f05-9b73bbd5f33d",
+        "A4": "755c68ab-aed6-45ef-9f05-9b73bbd5f33d",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "Stages": [
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "aa4fcc30-b4f0-45a5-bebb-72b3c0bcbdea",
+          "A2": "Stage1",
+          "A3": "755c68ab-aed6-45ef-9f05-9b73bbd5f33d",
+          "A4": "755c68ab-aed6-45ef-9f05-9b73bbd5f33d",
+          "A5": "f130df8d-6d7e-400e-8b29-59c0a986bbd4",
+          "Color": "#0C8701",
+          "StageRecordId": "3684b2dc-dfa4-42b5-9d95-3971619bb6b5",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "5085005a-05cf-43f3-b864-11f66c16e80f",
+          "A2": "Stage2",
+          "A3": "755c68ab-aed6-45ef-9f05-9b73bbd5f33d",
+          "A4": "755c68ab-aed6-45ef-9f05-9b73bbd5f33d",
+          "A5": "f130df8d-6d7e-400e-8b29-59c0a986bbd4",
+          "Color": "#004FD6",
+          "StageRecordId": "330d78a4-b319-49f9-aeb6-655704182862",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "3302ca51-0054-4385-b743-affab430b14c",
+          "A2": "Stage3",
+          "A3": "755c68ab-aed6-45ef-9f05-9b73bbd5f33d",
+          "A4": "755c68ab-aed6-45ef-9f05-9b73bbd5f33d",
+          "A5": "f130df8d-6d7e-400e-8b29-59c0a986bbd4",
+          "Color": "#FF4013",
+          "StageRecordId": "8f972efb-7448-4311-850d-fdd50f97a1a2",
+          "Elements": []
+        }
+      ],
+      "Transitions": [],
+      "StageConnections": {
+        "Connections": [
+          {
+            "Source": "5085005a-05cf-43f3-b864-11f66c16e80f",
+            "Target": "aa4fcc30-b4f0-45a5-bebb-72b3c0bcbdea"
+          },
+          {
+            "Source": "aa4fcc30-b4f0-45a5-bebb-72b3c0bcbdea",
+            "Target": "5085005a-05cf-43f3-b864-11f66c16e80f"
+          },
+          {
+            "Source": "3302ca51-0054-4385-b743-affab430b14c",
+            "Target": "aa4fcc30-b4f0-45a5-bebb-72b3c0bcbdea"
+          },
+          {
+            "Source": "aa4fcc30-b4f0-45a5-bebb-72b3c0bcbdea",
+            "Target": "3302ca51-0054-4385-b743-affab430b14c"
+          },
+          {
+            "Source": "3302ca51-0054-4385-b743-affab430b14c",
+            "Target": "5085005a-05cf-43f3-b864-11f66c16e80f"
+          },
+          {
+            "Source": "5085005a-05cf-43f3-b864-11f66c16e80f",
+            "Target": "3302ca51-0054-4385-b743-affab430b14c"
+          }
+        ]
+      },
+      "StageColumnUId": "4cbe8f7e-9981-f9a8-213d-8d56a63ff055",
+      "Filters": "{\"className\":\"Terrasoft.FilterGroup\",\"items\":{\"95bac0ae-cfe3-7f4b-6302-bc801353dca3\":{\"className\":\"Terrasoft.InFilter\",\"filterType\":4,\"comparisonType\":3,\"isEnabled\":true,\"trimDateTimeParameterToDate\":false,\"leftExpression\":{\"className\":\"Terrasoft.ColumnExpression\",\"expressionType\":0,\"columnPath\":\"UsrInsuranceType\"},\"isAggregative\":false,\"key\":\"95bac0ae-cfe3-7f4b-6302-bc801353dca3\",\"dataValueType\":10,\"leftExpressionCaption\":\"Insurance Type\",\"referenceSchemaName\":\"UsrInsuranceTypes\",\"rightExpressions\":[{\"className\":\"Terrasoft.ParameterExpression\",\"expressionType\":2,\"parameter\":{\"className\":\"Terrasoft.Parameter\",\"dataValueType\":10,\"value\":{\"Name\":\"Health\",\"Id\":\"f18b4794-f084-43fb-a376-edbfd63da3bf\",\"value\":\"f18b4794-f084-43fb-a376-edbfd63da3bf\",\"displayValue\":\"Health\"}}}]}},\"logicalOperation\":0,\"isEnabled\":true,\"filterType\":6,\"rootSchemaName\":\"UsrInsurance\",\"key\":\"\"}",
+      "SystemElements": []
+    }
+  }
+}

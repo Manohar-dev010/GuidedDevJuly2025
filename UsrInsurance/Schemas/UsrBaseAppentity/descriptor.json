@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7471c9cf-3056-4eec-b7fd-97c3aa702f0b",
+    "Name": "UsrBaseAppentity",
+    "ModifiedOnUtc": "\/Date(1749038567000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Base App entity",
+    "DependsOn": []
+  }
+}

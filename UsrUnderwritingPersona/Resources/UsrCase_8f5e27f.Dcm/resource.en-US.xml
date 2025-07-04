@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Underwriting Case" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Stages.Stage1.Caption" Value="Customer intake" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.Caption" Value="Collect Policy Details" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ID.Caption" Value="ID" />
+			<Item Name="Stages.Stage1.Elements.DcmElement2.ProcessFlowElement.Parameters.ID.DisplayValue" Value="[#Main record.Case reference#]" />
+			<Item Name="Stages.Stage2.Caption" Value="Quote" />
+			<Item Name="Stages.Stage3.Caption" Value="Application" />
+			<Item Name="Stages.Stage4.Caption" Value="Underwriting" />
+			<Item Name="Stages.Stage5.Caption" Value="Issue" />
+		</Items>
+	</Group>
+</Resources>

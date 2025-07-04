@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a3d5de69-a142-47b7-9354-be053d09f17f",
+    "Name": "UsrInsuranceRelatedPage",
+    "ModifiedOnUtc": "\/Date(1748258647000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Insurance (Page settings)",
+    "DependsOn": []
+  }
+}

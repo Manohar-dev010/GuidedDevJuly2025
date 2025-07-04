@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "a3cb8e72-cef2-4972-afae-41799dc179ea",
+      "A2": "UsrUnderwritingPersonaRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "be5816b1-2fff-48ca-8969-7986d1eb6923",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "e0ee3095-f1dc-4e14-af4b-d8d582231fd6",
+            "PageSchemaUId": "d2d3d4e8-95c8-46f9-8e38-12d40a0c07ea",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

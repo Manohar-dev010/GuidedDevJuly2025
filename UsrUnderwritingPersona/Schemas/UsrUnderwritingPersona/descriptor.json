@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "be5816b1-2fff-48ca-8969-7986d1eb6923",
+    "Name": "UsrUnderwritingPersona",
+    "ModifiedOnUtc": "\/Date(1751016209000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Underwriting Personal Insurance",
+    "DependsOn": []
+  }
+}

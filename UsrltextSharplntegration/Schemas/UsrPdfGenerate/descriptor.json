@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "48caba44-51c7-4526-88fd-adc8d6dd5f7d",
+    "Name": "UsrPdfGenerate",
+    "ModifiedOnUtc": "\/Date(1749647295000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Pdf Generator",
+    "DependsOn": []
+  }
+}

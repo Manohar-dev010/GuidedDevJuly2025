@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "097c037c-9626-4227-961f-8054a6e8ab9c",
+    "Name": "UsrCommercialRelatedPage",
+    "ModifiedOnUtc": "\/Date(1749036929000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Commercial (Page settings)",
+    "DependsOn": []
+  }
+}

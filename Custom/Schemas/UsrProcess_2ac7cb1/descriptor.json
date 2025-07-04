@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5498d2a7-7c6f-4f7e-81b0-dba6dc9611ca",
+    "Name": "UsrProcess_2ac7cb1",
+    "ModifiedOnUtc": "\/Date(1751018758000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Send Invoice PDF via Email",
+    "DependsOn": []
+  }
+}

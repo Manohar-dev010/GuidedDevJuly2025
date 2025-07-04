@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cc23eaab-cac4-46e9-85ed-aa52f1c11b05",
+    "Name": "UsrCollectPolicyDetailsPage",
+    "ModifiedOnUtc": "\/Date(1749203778000)\/",
+    "Parent": {
+      "UId": "f691e828-0b36-42a7-898f-c337e9af67d0",
+      "Name": "BlankPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Collect Policy Details Page",
+    "DependsOn": []
+  }
+}

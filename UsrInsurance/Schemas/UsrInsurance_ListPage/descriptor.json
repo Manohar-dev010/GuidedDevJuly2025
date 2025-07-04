@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2b533f46-731c-4b68-bc0a-8ccabca91071",
+    "Name": "UsrInsurance_ListPage",
+    "ModifiedOnUtc": "\/Date(1748257479000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Insurance list page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,23 @@
+﻿{
+  "Descriptor": {
+    "UId": "7a583cb7-8489-4d13-b77d-d2827bd416b8",
+    "Name": "UsrCommercial",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1751014172000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrCommercial.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      },
+      {
+        "UId": "f130df8d-6d7e-400e-8b29-59c0a986bbd4",
+        "Name": "UsrInsurance",
+        "Type": 1
+      }
+    ]
+  }
+}

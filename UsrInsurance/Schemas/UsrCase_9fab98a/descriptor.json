@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "755c68ab-aed6-45ef-9f05-9b73bbd5f33d",
+    "Name": "UsrCase_9fab98a",
+    "ModifiedOnUtc": "\/Date(1748264450000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Health Insurance Workflow",
+    "DependsOn": []
+  }
+}

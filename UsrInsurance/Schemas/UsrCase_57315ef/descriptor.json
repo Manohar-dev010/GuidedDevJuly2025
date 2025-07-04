@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ada60ed2-3ca2-4c90-85b2-73b9b743a6db",
+    "Name": "UsrCase_57315ef",
+    "ModifiedOnUtc": "\/Date(1748258051000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Automobile Insurance Workflow",
+    "DependsOn": []
+  }
+}

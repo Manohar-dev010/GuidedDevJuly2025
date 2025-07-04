@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a3cb8e72-cef2-4972-afae-41799dc179ea",
+    "Name": "UsrUnderwritingPersonaRelatedPage",
+    "ModifiedOnUtc": "\/Date(1749036795000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Underwriting Personal Insurance (Page settings)",
+    "DependsOn": []
+  }
+}

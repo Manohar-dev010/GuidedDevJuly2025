@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8f3a6b73-ce39-49be-8366-937ed06e6778",
+    "Name": "UsrInsuranceTypePage",
+    "ModifiedOnUtc": "\/Date(1748258532000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Insurance Type Page",
+    "DependsOn": []
+  }
+}

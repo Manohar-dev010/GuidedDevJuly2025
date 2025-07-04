@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.5006efc0-4c01-f06c-5d6e-9941a4644b2a.Caption" Value="Hide elements: GridContainer_2dgab9z" />
+			<Item Name="AddonConfig.Rules.e68952cb-cd4d-c289-55c5-e8ca444c64cc.Caption" Value="Hide elements: GeneralInfoTabContainer" />
+			<Item Name="Caption" Value="Underwriting Personal Insurance form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

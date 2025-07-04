@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Underwriting Personal Insurance form page" />
+			<Item Name="LocalizableStrings.addRecord_k8cs5dj_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_pmrouti_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_9emqeb1_caption.Value" Value="Print" />
+			<Item Name="LocalizableStrings.CreateEmailMenuItem_cag5kak_caption.Value" Value="NextSteps.CreateEmailButtonCaption" />
+			<Item Name="LocalizableStrings.CreateTaskMenuItem_qg5wg3u_caption.Value" Value="NextSteps.CreateActivityButtonCaption" />
+			<Item Name="LocalizableStrings.Input_dzguizy_label.Value" Value="Description" />
+			<Item Name="LocalizableStrings.Label_vzykrzn_caption.Value" Value="Next steps" />
+			<Item Name="LocalizableStrings.TabContainer_gxhsb92_caption.Value" Value="Next steps" />
+		</Items>
+	</Group>
+</Resources>

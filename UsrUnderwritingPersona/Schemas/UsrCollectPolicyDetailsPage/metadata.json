@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "cc23eaab-cac4-46e9-85ed-aa52f1c11b05"
+= MetaData.Schema.A2 "UsrCollectPolicyDetailsPage"
+= MetaData.Schema.A5 "fc5bfbbf-824c-4d70-a172-4ba6652a27c1"
+= MetaData.Schema.B6 "a4fcb92a-6182-4dfe-ac75-6ac0fac2b9a0"
+= MetaData.Schema.B8 "8.2.3.1351"
+= MetaData.Schema.HD1 "f691e828-0b36-42a7-898f-c337e9af67d0"
++ MetaData.Schema.HD15 1
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:1,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
++ MetaData.Schema.B7 false

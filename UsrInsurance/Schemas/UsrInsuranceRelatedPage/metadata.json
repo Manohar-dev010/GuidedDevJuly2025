@@ -1,0 +1,51 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "a3d5de69-a142-47b7-9354-be053d09f17f",
+      "A2": "UsrInsuranceRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f130df8d-6d7e-400e-8b29-59c0a986bbd4",
+      "B8": "0.0.0.0",
+      "AD1": "93bf5477-96c9-4044-859e-1031f4486f7f",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "a8160318-fbf2-4fe0-b639-7ac3990070ee",
+      "PageSchemaUId": "cd4afe19-5a86-4aca-83dd-6db4c821c815",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": null,
+      "TypeColumnValue": null
+    },
+    {
+      "UId": "c61389ef-55cb-8bc9-c02b-0e48a6e77802",
+      "PageSchemaUId": "cd4afe19-5a86-4aca-83dd-6db4c821c815",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": "f18b4794-f084-43fb-a376-edbfd63da3bf"
+    },
+    {
+      "UId": "49dbdf10-12ce-e84a-daad-f362c224cdba",
+      "PageSchemaUId": "cd4afe19-5a86-4aca-83dd-6db4c821c815",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": "0c63e885-1aff-48e8-971d-7e7630a7b62a"
+    }
+  ],
+  "TypeColumnUId": "95bac0ae-cfe3-7f4b-6302-bc801353dca3"
+}
+    }
+  }
+}
