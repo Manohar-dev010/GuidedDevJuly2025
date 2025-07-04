@@ -1,0 +1,9 @@
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrInsurance\Files\Bin\UsrInsurance.dll
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrInsurance\Files\Bin\UsrInsurance.pdb
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrInsurance\Files\obj\Release\UsrInsurance.csproj.AssemblyReference.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrInsurance\Files\obj\Release\UsrInsurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrInsurance\Files\obj\Release\UsrInsurance.AssemblyInfoInputs.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrInsurance\Files\obj\Release\UsrInsurance.AssemblyInfo.cs
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrInsurance\Files\obj\Release\UsrInsurance.csproj.CoreCompileInputs.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrInsurance\Files\obj\Release\UsrInsurance.dll
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrInsurance\Files\obj\Release\UsrInsurance.pdb

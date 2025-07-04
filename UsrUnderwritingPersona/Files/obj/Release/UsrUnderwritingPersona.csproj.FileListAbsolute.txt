@@ -1,0 +1,9 @@
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrUnderwritingPersona\Files\Bin\UsrUnderwritingPersona.dll
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrUnderwritingPersona\Files\Bin\UsrUnderwritingPersona.pdb
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrUnderwritingPersona\Files\obj\Release\UsrUnderwritingPersona.csproj.AssemblyReference.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrUnderwritingPersona\Files\obj\Release\UsrUnderwritingPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrUnderwritingPersona\Files\obj\Release\UsrUnderwritingPersona.AssemblyInfoInputs.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrUnderwritingPersona\Files\obj\Release\UsrUnderwritingPersona.AssemblyInfo.cs
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrUnderwritingPersona\Files\obj\Release\UsrUnderwritingPersona.csproj.CoreCompileInputs.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrUnderwritingPersona\Files\obj\Release\UsrUnderwritingPersona.dll
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrUnderwritingPersona\Files\obj\Release\UsrUnderwritingPersona.pdb

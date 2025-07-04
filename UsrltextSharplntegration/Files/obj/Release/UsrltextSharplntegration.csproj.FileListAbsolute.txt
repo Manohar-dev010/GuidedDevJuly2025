@@ -1,0 +1,9 @@
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrltextSharplntegration\Files\Bin\UsrltextSharplntegration.dll
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrltextSharplntegration\Files\Bin\UsrltextSharplntegration.pdb
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrltextSharplntegration\Files\obj\Release\UsrltextSharplntegration.csproj.AssemblyReference.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrltextSharplntegration\Files\obj\Release\UsrltextSharplntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrltextSharplntegration\Files\obj\Release\UsrltextSharplntegration.AssemblyInfoInputs.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrltextSharplntegration\Files\obj\Release\UsrltextSharplntegration.AssemblyInfo.cs
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrltextSharplntegration\Files\obj\Release\UsrltextSharplntegration.csproj.CoreCompileInputs.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrltextSharplntegration\Files\obj\Release\UsrltextSharplntegration.dll
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrltextSharplntegration\Files\obj\Release\UsrltextSharplntegration.pdb

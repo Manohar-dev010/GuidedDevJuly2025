@@ -1,0 +1,9 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrInsurance/Schemas/Activity/Activity.cs" Condition="Exists('$(PkgPath)/UsrInsurance/Schemas/Activity/Activity.cs')" />
+		<Compile Include="$(PkgPath)/UsrInsurance/Schemas/UsrBaseAppentity/UsrBaseAppentity.cs" Condition="Exists('$(PkgPath)/UsrInsurance/Schemas/UsrBaseAppentity/UsrBaseAppentity.cs')" />
+		<Compile Include="$(PkgPath)/UsrInsurance/Schemas/UsrInsurance/UsrInsurance.cs" Condition="Exists('$(PkgPath)/UsrInsurance/Schemas/UsrInsurance/UsrInsurance.cs')" />
+		<Compile Include="$(PkgPath)/UsrInsurance/Schemas/UsrInsuranceStages/UsrInsuranceStages.cs" Condition="Exists('$(PkgPath)/UsrInsurance/Schemas/UsrInsuranceStages/UsrInsuranceStages.cs')" />
+		<Compile Include="$(PkgPath)/UsrInsurance/Schemas/UsrInsuranceTypes/UsrInsuranceTypes.cs" Condition="Exists('$(PkgPath)/UsrInsurance/Schemas/UsrInsuranceTypes/UsrInsuranceTypes.cs')" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrCommercial\Files\Bin\UsrCommercial.dll
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrCommercial\Files\Bin\UsrCommercial.pdb
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrCommercial\Files\obj\Release\UsrCommercial.csproj.AssemblyReference.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrCommercial\Files\obj\Release\UsrCommercial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrCommercial\Files\obj\Release\UsrCommercial.AssemblyInfoInputs.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrCommercial\Files\obj\Release\UsrCommercial.AssemblyInfo.cs
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrCommercial\Files\obj\Release\UsrCommercial.csproj.CoreCompileInputs.cache
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrCommercial\Files\obj\Release\UsrCommercial.dll
+C:\Academy\Builds\UsrDev3\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrCommercial\Files\obj\Release\UsrCommercial.pdb

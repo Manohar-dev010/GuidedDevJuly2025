@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/UsrltextSharplntegration/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/UsrltextSharplntegration/Data/**" />
+		<Compile Remove="$(PkgPath)/UsrltextSharplntegration/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/UsrltextSharplntegration/Schemas\**" />
+		<Compile Remove="$(PkgPath)/UsrltextSharplntegration/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrltextSharplntegration/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrltextSharplntegration/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrltextSharplntegration/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrltextSharplntegration/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrltextSharplntegration/Resources/**" />
+		<None Remove="$(PkgPath)/UsrltextSharplntegration/Assemblies/**" />
+		<None Remove="$(PkgPath)/UsrltextSharplntegration/Data/**" />
+		<None Remove="$(PkgPath)/UsrltextSharplntegration/SqlScripts/**" />
+		<None Remove="$(PkgPath)/UsrltextSharplntegration/Schemas/**" />
+		<None Remove="$(PkgPath)/UsrltextSharplntegration/Resources/**" />
+  </ItemGroup>
+</Project>

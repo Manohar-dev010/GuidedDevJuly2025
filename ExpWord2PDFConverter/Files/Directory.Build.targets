@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/ExpWord2PDFConverter/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/ExpWord2PDFConverter/Data/**" />
+		<Compile Remove="$(PkgPath)/ExpWord2PDFConverter/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/ExpWord2PDFConverter/Schemas\**" />
+		<Compile Remove="$(PkgPath)/ExpWord2PDFConverter/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ExpWord2PDFConverter/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ExpWord2PDFConverter/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ExpWord2PDFConverter/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ExpWord2PDFConverter/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/ExpWord2PDFConverter/Resources/**" />
+		<None Remove="$(PkgPath)/ExpWord2PDFConverter/Assemblies/**" />
+		<None Remove="$(PkgPath)/ExpWord2PDFConverter/Data/**" />
+		<None Remove="$(PkgPath)/ExpWord2PDFConverter/SqlScripts/**" />
+		<None Remove="$(PkgPath)/ExpWord2PDFConverter/Schemas/**" />
+		<None Remove="$(PkgPath)/ExpWord2PDFConverter/Resources/**" />
+  </ItemGroup>
+</Project>
